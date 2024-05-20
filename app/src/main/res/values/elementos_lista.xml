@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="elements">
+        <item>Fresa</item>
+        <item>Manzana</item>
+        <item>Pera</item>
+        <item>Platano</item>
+        <item>Naranja</item>
+        <item>Toronja</item>
+        <item>Kiwi</item>
+        <item>Durazno</item>
+        <item>Uva</item>
+        <item>Tomate</item>
+        <item>Papa</item>
+        <item>Limon</item>
+        <item>Melon</item>
+        <item>Sandia</item>
+        <item>Guanabana</item>
+        <item>Guayaba</item>
+    </string-array>
+</resources>
